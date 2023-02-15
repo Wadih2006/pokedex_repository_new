@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\bin\Debug\Pokedex challenge 7.exe.config
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\bin\Debug\Pokedex challenge 7.exe
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\bin\Debug\Pokedex challenge 7.pdb
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex challenge 7.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex challenge 7.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex_challenge_7.Properties.Resources.resources
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex challenge 7.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex challenge 7.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex challenge 7.exe
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex challenge 7.pdb
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex_challenge_7.Form1.resources
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex_challenge_7.pokemon1.resources
+\\Mac\Home\Desktop\Wadih school\Challenges\Challenge 7\Pokedex challenge 7\obj\Debug\Pokedex_challenge_7.Form2.resources
