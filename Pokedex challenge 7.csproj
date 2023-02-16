@@ -61,8 +61,71 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="charmander.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="charmander.Designer.cs">
+      <DependentUpon>charmander.cs</DependentUpon>
+    </Compile>
+    <Compile Include="charmeleon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="charmeleon.Designer.cs">
+      <DependentUpon>charmeleon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="charizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="charizard.Designer.cs">
+      <DependentUpon>charizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="venusaur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="venusaur.Designer.cs">
+      <DependentUpon>venusaur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ivysaur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ivysaur.Designer.cs">
+      <DependentUpon>ivysaur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bulbasaur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bulbasaur.Designer.cs">
+      <DependentUpon>bulbasaur.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="charmander.resx">
+      <DependentUpon>charmander.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="charmeleon.resx">
+      <DependentUpon>charmeleon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="charizard.resx">
+      <DependentUpon>charizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="venusaur.resx">
+      <DependentUpon>venusaur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ivysaur.resx">
+      <DependentUpon>ivysaur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bulbasaur.resx">
+      <DependentUpon>bulbasaur.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -142,6 +205,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Achtergrond van IMG_1601 verwijderd1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
